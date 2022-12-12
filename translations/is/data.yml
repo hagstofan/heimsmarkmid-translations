@@ -1,1 +1,355 @@
-Year: Year
+Energy Source: Uppruni
+Hydro: Vatnsafl
+Geothermal: Jarðvarmi
+Wind: Vindafl
+Level of government: Stjórnarstig
+Local government: Sveitarstjórnir
+Parliment: Alþingi
+Category: Flokkur
+Other (glaciers etc.): Annað (jöklar o.fl.)
+Category 1: Flokkur 1
+Category 2: Flokkur 2
+Category 3: Flokkur 3
+Category 4: Flokkur 4
+Category 5: Flokkur 5
+Domestic Material Consumption (DMC) [Kilotonnes]: Innlend efnisnotkun (DMC) [Kílótonn]
+DMC per capita [kilotonnes per person]: DMC á íbúa [Kílótonn á íbúa]
+DMC per GDP [kilotonnes per MISK]: DMC á verga landsframleiðslu [Kílótonn per milljón ISK]
+Status: Staða
+Hate crimes recorded by police: Hatursglæpir sem skráðir eru hjá lögreglu
+Prosecuted: Lögsótt
+Sentenced: Sakfellt
+Severe only: Bara alvarlegt
+Moderate or Severe: Nokkurt og alvarlegt
+Severity: Alvarleiki
+Age group: Aldurshópur
+Type of violence: Tegund ofbeldis
+Sexual violence: Kynferðislegt ofbeldi
+Physical violence: Líkamlegt ofbeldi
+Agriculture: Landbúnaður
+Accounts: Bókhald
+Energy: Orka
+Households: Heimili
+Industrial Processes: Iðnaðarferlar
+Land use, land-use change and forestry: Landnotkun, breyting á landnotkun og skógrækt
+Waste: Úrgangur
+Source: Uppspretta
+Type of Product: Vörutegund
+Arms: Vopn
+Clothing: Föt
+Industrial products: Iðnaðarvörur
+Textiles: Vefnaðarvara
+All products: Allar vörutegundir
+Agricultural products: Landbúnaðarvörur
+Oil: Olía
+Status: Staða
+Most-favoured-nation status: Bestukjaraákvæði 
+Preferential Status: Ívílnunarkjör
+Type of treatment: Meðhöndlun
+Recovery: Endurvinnsla
+Disposal: Urðun
+Tonne per capita: Tonn á íbúa
+Percentage of all hazardous waste: Hlutfall alls hættulegs úrgangs
+5 years and younger: 5 ára og yngri
+6 - 12 years: 6 - 12 ára
+13 - 18 years: 13 - 18 ára
+Convention: Umhverfissamningur
+Waste type: Tegund úrgangs
+Units type: Einingar
+Waste origin: Uppruni úrgangs
+Wholesale and retail (46 and 47): Heildsala og smásala (46 og 47)
+Agriculture (01): Landbúnaður (01)
+Wholesale (46): Heildsala (46)
+Retail (47): Smásala (47)
+Meat processing (03): Kjötvinnsla (03)
+Accommodation (55): Gistiþjónusta (55)
+Food and beverage service (56): Veitingaþjónusta (56)
+Education (P): Menntun (P)
+Meat processing (10.1): Kjötvinnsla (10.1)
+Processing of fruit and vegetables (10.3): Ávaxta- og grænmetisvinnsla (10.3)
+Manufacture of oil and fat (10.4): Framleiðsla olíu og feiti (10.4)
+Manufacture of bakery and farinaceous products (10.7): Framleiðsla bökunarvara (10.7)
+Health institutions (86): Heilbrigðisstofnanir (86)
+Nursing homes (87): Öldrunarheimili (87)
+Manufacture of beverages (11): Framleiðsla drykkjavara (11)
+Manufacture of other food products (10.8): Framleiðsla annara matvæla (10.8)
+Manufacture of dairy products (10.5): Framleiðsla mjólkurvara (10.5)
+Tonnes: Tonn 
+Kg per person: Kg á íbúa
+Edible food and inedible waste: Matur og óætur úrgangur 
+Household: Heimili
+Supply chain: Fyrirtæki
+Edible food: Matur
+Perpetrator: Gerandi
+Adult: Fullorðinn
+Same age: Jafnaldri
+Biota: Lífríki
+Mammals: Spendýr
+Birds: Fuglar
+Vascular Plants: Plöntur
+Fatal/non-fatal: Banvænt/óbanvænt
+Both: Bæði
+Nationality: Þjóðerni
+All: Öll
+Icelandic: Íslenskt
+Foreign: Erlent
+non-fatal: Óbanvænt
+Fatal: Banvænt
+Total: Alls
+Type of Violence: Tegund ofbeldis
+Sexual assault: Kynferðislegt ofbeldi
+Physical assault: Líkamlegt ofbeldi
+Indicator: Mælikvarði
+Liquid assets to short-term liabilities: Hlutfall lausaeigna við skammtímaskuldbindingar.
+Net open position in foreign exchange to capital: Munur á erlendum eignum og skuldbindingum.
+Nonperforming loans net of provisions to capital: Hlutfall útlána í vanskilum af niðurfellingum lána. 
+Nonperforming loans to total gross loans: Útlán í vanskilum sem hlutfall af heildar lánveitingum.
+Regulatory Tier 1 capital to assets: Eigið fé sem hlutfall af eignum samkvæmt reglugerðarflokki 1.
+Regulatory Tier 1 capital to risk- weighted assets: Eigið fé sem hlutfall af áhættuvegnum eignum samkvæmt reglugerðarflokki 1.
+Return on assets: Arðsemi eigna.
+Income/expenditure: Tekjur/útgjöld
+Income: Tekjur
+Expenditure: Útgjöld
+1st quartile: Fyrsti tekjufjórðungur
+2nd quartile: Annar tekjufjórðungur
+3rd quartile: Þriðji tekjufjórðungur
+4th quartile: Fjórði tekjufjórðjungur
+Income group: Tekjuhópur
+1st quantile: Fyrsti tekjufimmtungur
+2nd quantile: Annar tekjufimmtungur
+3rd quantile: Þriðji tekjufimmtungur
+4th quantile: Fjórði tekjufimmtungur
+5th quantile: Fimmti tekjufimmtungur
+Region: Landshluti
+Condition: Næringarfræðilegt ástand
+Capital Region: Höfuðborgarsvæðið
+Overweight: Ofþyngd
+Obese: Offita
+MISK per capita: Millj. kr á íbúa
+Percentage (%) of GDP: Hlutfall (%) af vergri landsframleiðslu
+Industry category: Atvinnugrein
+"C: 10-12 Thereof Fish processing": "C: 10-12 Þaraf Fiskvinnsla"
+"C. Manufacturing": "C. Framleiðsla"
+"C: 10-12 Manufacture of food products, beverages and tobacco products": "C: 10-12 Matvæla- og drykkjavöruiðnaður; tóbaksiðnaður"
+"Thereof Fish processing": "Þar af Fiskvinnsla"
+"C: 13-15 Manufacture of textiles, wearing apparel and leather products": "C: 13-15 Textíl-, fata- og leðuriðnaður"
+"C: 16-17 Manufacture of wood and paper products": "C: 16-17 Trjá- og pappírsiðnaður"
+"C: 18 Printing and reproduction of recorded media": "C: 18 Prentun og fjölföldun upptekins efnis"
+"C: 19 Manufacture of coke and refined petroleum products": "C: 19 Framleiðsla á koksi og hreinsuðum olíuvörum"
+"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations": "C: 20-21 Framleiðsla á efnum og efnavörum og á lyfjum og efnum til lyfjagerðar"
+"C: 22 Manufacture of rubber and plastic products": "C: 22 Framleiðsla á gúmmí- og plastvörum"
+"C: 23 Manufacture of other non-metallic mineral products" : "C: 23 Framleiðsla á vörum úr málmlausum steinefnum"
+"C: 24 Manufacture of basic metals" : "C: 24 Framleiðsla málma"
+"C: 25 Manufacture of fabricated metal products, except machinery and equipment": "C: 25 Framleiðsla á málmvörum, að undanskildum vélum og búnaði"
+"C: 26 Manufacture of computer, electronic and optical products": "C: 26 Framleiðsla á tölvu-, rafeinda- og optískum vörum"
+"C: 27 Manufacture of electrical equipment" : "C: 27 Framleiðsla á rafbúnaði og heimilistækjum"
+"C: 28 Manufacture of machinery and equipment n.e.c.": "C: 28 Framleiðsla á öðrum ótöldum vélum og tækjum"
+"C: 29 Manufacture of motor vehicles, trailers and semi-trailers": "C: 29 Framleiðsla á vélknúnum ökutækjum og tengivögnum"
+"C: 30 Manufacture of other transport equipment": "C: 30 Framleiðsla annarra farartækja"
+"C: 31-32 Manufacture of furniture; other manufacturing": "C: 31-32 Framleiðsla á húsgögnum, innréttingum og vörum til lækninga; önnur framleiðsla"
+"C: 33 Repair and installation of machinery and equipment": "C: 33 Viðgerðir og uppsetning vélbúnaðar og tækja"
+Service: Þjónusta
+Branches of commercial banks: Fjöldi viðskiptabankaútibúa
+Number of Automated Teller Machines (ATMs): Fjöldi hraðbanka
+Sector: Atvinnnugrein
+Total - excluding public administration (O): Alls - án opinberrar stjórnsýslu (O)
+Private sector: Almennur vinnumarkaður
+Public sector, total: Opinberir starfsmenn
+Public sector, central government: Opinberir starfsmenn - ríkisstarfsmenn
+Public sector, local government: Opinberir starfsmenn - starfsmenn sveitarfélaga
+Full-time: Fullvinnandi
+Part-time: Hlutastarfsfólk
+Manufacturing (C): Framleiðsla (C)
+Electricity, gas, steam, and air conditioning supply (D): Rafmagns-, gas- og hitaveitur (D)
+Wholesale and retail trade; repair of motor vehicles (G): Heild- og smásöluverslun, viðgerðir á vélknúnum ökutækjum (G)
+Transportation and storage (H): Flutningar og geymsla (H)
+Accomodation and food services (I): Rekstur gististaða og veitingarekstur (I)
+Information and communication (J): Upplýsingar og fjarskipti (J)
+Financial and insurance activities (K): Fjármála- og vátryggingastarfsemi (K)
+Public administration and defence; compulsory social sec. (O): Opinber stjórnsýsla og varnarmál; almannatryggingar (O)
+Education (P): Fræðslustarfsemi (P)
+Human health and social work activities (Q): Heilbrigðis- og félagsþjónusta (Q)
+Managers (1): Stjórnendur (1)
+Professionals (2): Sérfræðingar (2)
+Technicians and associate professionals (3): Tæknar og sérmenntað starfsfólk (3)
+Clerks (4): Skrifstofufólk (4)
+Service workers and shop and market sales workers (5): Þjónustu-, sölu- og afgreiðslufólk (5)
+Craft and related workers (7): Iðnaðarmenn og sérhæft iðnverkafólk (7)
+Plant and machine operators and assemblers (8): Véla- og vélgæslufólk (8)
+Elementary occupations (9): Ósérhæft starfsfólk (9)
+General, machine and specialized workers: Verkafólk
+Participation rate in formal education: Þáttökuhlutfall í formlegu námi
+Participation rate in  non-formal education: Þáttökuhlutfall í óformlegu námi
+Index: Jöfnuðarvísir
+Reading attainment at age 9: Lestrarfærni við 9 ára aldur
+Reading attainment at age 15: Lestrarfærni við 15 ára aldur
+Math attainment at age 15: Reiknifærni við 15 ára aldur
+Social workers: Félagsráðgjafar
+Radiographers: Geislafræðingar
+Midwives: Ljósmæður
+Nurses: Hjúkrunarfræðingar
+Dentists: Tannlæknar
+Pharmacists: Lyfjafræðingar
+Pharmacy technicians: Lyfjatæknar
+Proprietary pharmacists: Lyfsalar 
+Physicians and surgeons: Læknar
+Physiotherapists: Sjúkraþjálfarar
+Dental hygienists: Tannfræðingar
+Dental Surgery Assistants: Tanntæknar og aðstoðarfólk tannlækna
+Biomedical scientists: Lífeindafræðingar
+Practical nurses: Sjúkraliðar
+Environmental health officers: Heilbrigðisfulltrúar
+Exam. pharmacists: Aðstoðarlyfjafræðingar
+Occupational therapists: Iðjuþjálfar
+Unit: Eining
+Percentage of GDP: Hlutfall (%) af vergri þjóðarframleiðslu
+Percentage of fuel imports: Hlutfall (%) af eldsneytisinnflutningi
+Cause of death: Dánarmein
+Disease: Sjúkdómur
+Cancer: Krabbamein
+Diabetes: Sykursýki
+Cardiovascular disease: Hjarta- og æðasjúkdómar
+Chronic respiratory disease: langvinnir öndunarfærasjúkdómar
+X31 Exposure to excessive natural cold: X31 Berskjöldun fyrir náttúrulegum ofurkulda
+"X36 Victim of avalanche, landslide and other earth movements": X36 Fórnarlamb snjóflóðs, skriðu og annarar tilfærslu jarðvegs
+Education Category: Tegund náms
+Formal: Formlegt
+Non-Formal: Óformlegt
+Type of skill: Tegund færni
+Reading: Lestur
+Math: Stærðfræði
+Attainment at age 9: Lágmarksfærni við 9 ára aldur
+Attainment at age 15: Lágmarksfærni við 15 ára aldur
+Capacity: Flokkur
+Human Resources: Mannauður
+Food safety: Matvælaöryggi
+Coordination: Samhæfing
+Zoonosis: Smit milli manna og dýra
+Response: Viðbragðsgeta
+Risk communication: Áhættumiðlun
+Points of entry: Landamæri
+Legislation: Löggjöf
+Radionuclear: Geislavarnir
+Surveillance: Eftirlit
+Laboratory: Greiningargeta
+Chemical: Efnaeitrun
+Preparedness: Viðbúnaður
+National Health Emergency Framework: Innlend aðgerðaráætlun vegna neyðartilvika
+Health Service Provision: Aðgengi heilbrigðisþjónustu
+Type of Occupation: Starfsgrein
+Dentist: Tannlæknar
+Nurse: Hjúkrunarfræðingar
+Pharmacist: Lyfjafræðingar
+Physician: Læknar
+Organization: Stofnun 
+World Trade Organization: Alþjóðaviðskiptastofnunin (WTO)
+International Bank for Reconstruction and Development: Alþjóðabankinn (IBRD)
+UN General Assembly: Alsherjaþing Sameinuðu Þjóðanna (UNGA)
+International Monetary Fund: Alþjóðagjaldeyrissjóðurinn (IMF)
+International Finanace Corporation: Alþjóða lánastofnunin (IFC)
+UN Econonomic and Social Council: Efnahags- og félagsmálaráð Sameinuðu Þjóðanna (UN ECOSOC)
+Connection type: Tegund tengingu
+Position: Staða
+Managers: Framkvæmdarstjórar
+Chairmen: Stjórnarformenn
+Board of Directors: Stjórnarmenn
+Director of governmental agencies: Forstöðumenn ríkisstofnana
+Developing: Þróunarlönd
+Least developed: Minnst þróuðu ríkin
+sex: Kyn
+Year: Ár
+Value: Gildi
+Age: Aldur
+Group: Hópur
+<18 years: <18 ára
+Female: Kona
+Male: Karl
+Females: Konur
+Males: Karlar
+Gender: Kyn
+Education: Menntun
+Health: Heilbrigðismál
+Social Protection: Félagsvernd
+Percentage (%) of Gross Domestic Product (GDP): Hlutfall (%) af vergri þjóðarframleiðslu (GDP)
+Percentage (%) of national budget: Hlutfall af heildarútgjöldum hins opinbera
+Area of Spending Category: Útgjaldaliður
+Never smoked: Aldrei reykt
+Quit smoking: Hætt að reykja
+Smoke daily: Reyki daglega
+Smoke less frequently than daily: Reyki sjaldnar en daglega
+Age-group: Aldurshópur
+Skill: Þekking
+Communications skills: Samskiptafærni
+Information skills: Upplýsingafærni 
+Problem solving skills: Lausnarfærni
+Software: Hugbúnaðarfærni
+Compulsory school: Grunnskóli
+Preschools: Leikskóli
+Category: Flokkur
+Lakes and reservoirs: Vötn og uppistöðulón
+Rivers and Estuaries: Ár og árósar
+Wetlands: Votlendi
+Enterprises: Fyrirtæki
+Government institutions (excluding universities): Rannsóknarstofnanir (að undanskildum háskólum)
+Tertiary education institutions: Háskólastofnanir
+Sector: Atvinnugrein
+A - Agriculture, forestry and fishing: A - Landbúnaður, skógrækt og fiskveiðar
+B - Mining and quarrying: B - Námugröftur og vinnsla hráefna úr jörðu
+C - Manufacturing: C - Framleiðsla
+D - Electricity and power generation: D - Rafmagns-, gas- og hitaveitur
+E - Water collection, waste management and remediation activities: E - Vatnsveita, fráveita, meðhöndlun úrgangs og afmengun
+F - Construction: F - Byggingastarfsemi og mannvirkjagerð
+G - Trade and repair of mechanical equipment: G - Heild og smásöluverslun, viðgerðir á vélknúnum ökutækjum
+H - Tranportation and storage: H - Flutningur og geymsla
+I - Accommodation and food services activities: I - Rekstur gististaða og veitingarekstur
+J - Information and communication: J - Upplýsingar og fjarskipti
+K - Financial and insurance activities: K - Fjármála og vátryggingastarfsemi
+M - Professional, scientific and technical activities: M - Sérfræðileg, vísindaleg og tæknileg starfsemi
+N - Administrative and support service activities: N - Leigustarfsemi og ýmis sérhæfð þjónusta
+O - Public administration and defence; compulsory social security: O - Opinber stjórnsýsla og varnarmál; almannatryggingar
+P - Education: P - Fræðslustarfsemi
+Q - Human health and social work activities: Q - Heilbrigðis og félagsþjónusta
+R - Arts, entertainment and recreation: R - Menningar, íþrjótta og tómstundastarfsemi
+S - Other services activities: S - Félagasamtök og önnur þjónustustarfsemi
+U - Activities of extraterritorial organisations and bodies: U - Starfsemi stofnana og samtaka með úrlendisrétt
+Type: Tegund
+Forest < 5m: Skógur < 5m
+Forest > 5m: Skógur > 5m 
+Total Forest cover: Heildar skógþekja
+Sub-indicator.: Hlutvísir
+Above-ground biomass stock in forest [ton/ha]: Skógarlífmassi ofanjarðar [ton/ha]
+Forest area annual net change (%): Árleg breyting í skógþekju (%)
+Forest area under independantely verified forest management certification schemes [1000 ha]: Skógar í vottaðri og sjálfbærri skógarstjórnun [1000 ha]
+Proportion of forest area located within legally established protected areas [%]: Hlutfall skóglendis innan friðaðra svæða [%]
+Proportion of forest area under long-term forest management plan [%]: Hlutfall skóglendis í langtíma skógstýringu [%]
+Revenue: Tekjur
+Other revenue: Aðrar tekjur
+Tax revenue: Skattekjur
+Social contributions: Tryggingagjöld
+Grants: Fjárframlög
+Vaccine: Bóluefni
+Vaccine - participation: Þáttaka í bólusetningu
+DTP & Polio revaccination at 14 years old: DTP og Pólíó endurbólusetning
+DTP revaccination at 4 years old: DTP endurbólusetning 
+DTP, Polio, HIB: Barnaveiki, Stífkrampi, kíkhósti (DTP), lömunarveiki og Haemofilus influenzae b
+MMR: Mislingar, hettusótt, rauðir hundar (MMR)
+MMR revaccination: MMR endurbólusetning 
+Meningococcal C vaccine: Meningókokkar C
+Pneumococcal Vaccine: Pneumókokkar
+'256 kbit/s to less than 2 Mbit/s': '256 kbit/s til minna en 2 Mbit/s'
+'2 Mbit/s to less than 10 Mbit/s': '2 Mbit/s til minna en 10 Mbit/s'
+Equal to or above 10 Mbit/s: Jafnt eða yfir 10 Mbit/s
+'% Covered at 12 months old': '% Þáttaka við 12 mánaða aldur'
+'% Covered at 3 months old': '% Þáttaka við 3 mánaða aldur'
+'% Covered at 5 months old': '% Þáttaka við 5 mánaða aldur'
+'% Covered at 6 months old': '% Þáttaka við 6 mánaða aldur'
+'% Covered at 8 months old': '% Þáttaka við 8 mánaða aldur'
+'% Covered at 4 years old': '% Þáttaka við 4 ára aldur'
+'% Covered at 14 years old': '% Þáttaka við 14 ára aldur'
+'% Covered at 12 years old': '% Þáttaka við 12 ára aldur'
+Overcrowding: Þéttbýli
+Poor housing conditions: Lélegt ástand húsnæðis
+Primary homeless: Útigangsfólk
+Secondary homeless: Fólk í húsnæðishraki
+Sex: Kyn
+Living condition: Húsnæðisaðstæður
