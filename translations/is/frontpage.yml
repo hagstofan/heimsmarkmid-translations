@@ -1,11 +1,11 @@
 instructions: Veljið markmið, eða %before_link leitið, %after_link
   í mælikvörðum heimsmarkmiðanna.  
-instructions_short: Click on each goal for %country.name Sustainable Development Goal global indicator data.
-instructions_shorter: Select each goal for indicator data.
+instructions_short: Veljið markmið til að skoða mælikvarða heimsmarkmiðanna 
+# instructions_shorter: 
 heading: "Tölfræði heimsmarkmiða Sameinuðu þjóðanna um sjálfbæra þróun"
 heading_short: "Tölfræði heimsmarkmiða Sameinuðu þjóðanna um sjálfbæra þróun"
 download_all: Ná í öll gögn (.zip)
-zip_file: ZIP file
+zip_file: ZIP fæll
 file_size: Stærð
 intro_title: 17 markmið til að breyta heiminum okkar
-intro_body: The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">2030 Agenda for Sustainable Development</a>.
+#intro_body: The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">2030 Agenda for Sustainable Development</a>.
