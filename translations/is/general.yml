@@ -1,12 +1,27 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
 indicator: Mælikvarði
+# This is the plural version of the indicator key
 indicators: mælikvarðar
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
 goal: Markmið
+# This is the plural version of the goal key
 goals: Markmiðin
 sdg: Heimsmarkmið
+# This refers to the 'home page' of a website
 home: Heim
 loading: Hleður niðurstöðum leitar
 opens_new_window: opnast í nýjum glugga
+hide: Fela
 target: Undirmarkmið
 targets: Undirmarkmið
 twitter: Twitter
 facebook: Facebook
+built_using_open_sdg: Byggt með Open SDG
+page: Síða
+pages: Síður
+targets_and_indicators: Markmið og undirmarkmið
+# A label of "Warning" to place before some other text.
+label_warning: "Varúð:"
+# A phrase to use as a site-wide page title.
+site_title: Mælikvarðar fyrir heimsmarkmið Sameinuðu þjóðanna um sjálfbæra þróun
+back_to_top: Aftur upp
