@@ -1,29 +1,27 @@
-cookie_settings: Kökustillingar
-all_required_notice: Þessi vefsíða notar vafrakökur (e. cookies) til að tryggja sem besta upplifun af síðunni fyrir notendur.
-all_required_ok: Í lagi
-acceptAll: Samþykkja allt
-acceptSelected: Samþykkja valdar kökur
-close: Loka
-consentModal_description: Breyta kökustillingum. Veldu þínar stillingar.
-consentModal_title: Kökustillingar
-consentNotice_changeDescription: Vafrakökur hafa breyst síðan þú heimsóttir síðuna síðast, vinsamlegast skoðaðu samþykki þitt.
-consentNotice_description: Við notum nauðsynlegar vafrakökur til að tryggja öryggi og sem besta upplifun af síðunni fyrir notendur. Við viljum einnig nota {purposes} til að bæta þjónustu okkar.
-consentNotice_learnMore: Skoða vafrakökur
-consentNotice_testing: Prufa!
-contextualConsent_acceptAlways: Alltaf
-contextualConsent_acceptOnce: 'Samþykki'
+cookie_settings: Cookie settings
+all_required_notice: We use some essential cookies to make this service work. They always need to be on.
+all_required_ok: OK
+acceptAll: Accept all
+acceptSelected: Accept selected
+close: Close
+consentModal_description: Here you can change which cookies you're happy for us to use.
+consentModal_title: Cookie settings
+consentNotice_changeDescription: The cookies used on this site have changed since you last visited, please renew your consent. 
+consentNotice_description: We use some essential cookies to make this service work. We’d also like to use {purposes} so we can understand how you use the service and make improvements.
+consentNotice_learnMore: View cookies
+consentNotice_testing: Testing mode!
+contextualConsent_acceptAlways: Always
+contextualConsent_acceptOnce: 'Yes'
 contextualConsent_description: Do you want to load external content supplied by {title}?
-decline: Hafna auka vafrakökum
-ok: Samþykkja auka vafrakökur
+decline: Reject additional cookies
+ok: Accept additional cookies
 poweredBy: Realized with Klaro!
 privacyPolicy_name: privacy policy
 privacyPolicy_text: To learn more, please read our privacy policy.
 purposeItem_service: service
 purposeItem_services: services
-purposes_functional_description: Þessar kökur eru nauðsynlegar fyrir virkni vefsins og þar af leiðandi getur þú ekkislökkt á þeim án þess að skerða virknina. Þessar kökur geyma/safna engum persónuupplýsingum.
-# 
-#Essential cookies keep your information secure, and do things like remember your preferences and the choices you make whilst you use the website. They always need to be on.
-purposes_functional_title: Nauðsynlegar kökur
+purposes_functional_description: Essential cookies keep your information secure, and do things like remember your preferences and the choices you make whilst you use the website. They always need to be on.
+purposes_functional_title: Essential cookies
 purposes_performance_description: These services process personal information to optimize the service that this website offers.
 purposes_performance_title: Performance optimization
 purposes_analytics_description: These services collect information about how you use the website. We use this data to help make the website better.
@@ -39,6 +37,6 @@ service_required_description: This service is always required
 service_required_title: (always required)
 contrast_description: Retains active state of accessibility services
 contrast_title: Accessibility mode
-google_analytics_description: Collects information about page visits using Google Analytics
-google_analytics_title: Google Analytics
+#google_analytics_description: Collects information about page visits using Google Analytics
+#google_analytics_title: Google Analytics
 cookie_settings_description: Saves your cookie consent settings
