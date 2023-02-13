@@ -6,7 +6,7 @@ acceptSelected: Accept selected
 close: Close
 consentModal_description: Here you can change which cookies you're happy for us to use.
 consentModal_title: Cookie settings
-consentNotice_changeDescription: The cookies used on this site have changed since you last visited, please renew your consent.
+consentNotice_changeDescription: The cookies used on this site have changed since you last visited, please renew your consent. 
 consentNotice_description: We use some essential cookies to make this service work. We’d also like to use {purposes} so we can understand how you use the service and make improvements.
 consentNotice_learnMore: View cookies
 consentNotice_testing: Testing mode!
@@ -37,6 +37,6 @@ service_required_description: This service is always required
 service_required_title: (always required)
 contrast_description: Retains active state of accessibility services
 contrast_title: Accessibility mode
-google_analytics_description: Collects information about page visits using Google Analytics
-google_analytics_title: Google Analytics
+#google_analytics_description: Collects information about page visits using Google Analytics
+#google_analytics_title: Google Analytics
 cookie_settings_description: Saves your cookie consent settings
