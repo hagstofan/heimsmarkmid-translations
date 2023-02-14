@@ -1,7 +1,8 @@
 reporting_status: Staða birtingar
 overall_reporting_status: Heildarstaða birtingar
 reported_online: Birt
-statistics_in_progress: Í vinnslu
+#statistics_in_progress: Í vinnslu
+in_progress: Í vinnslu
 exploring_data_sources: Verið að kanna gagnalindir
 not_applicable: Á ekki við
 no_data_available: Engin gögn tiltæk
