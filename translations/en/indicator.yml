@@ -10,16 +10,16 @@ download_headline_title: Download headline data as CSV
 download_source: Download source data (.csv)
 download_source_for_disaggregations: Download source data for disaggregations (.csv)
 download_source_title: Download source data as CSV
-download_source_sdmx: Download source SDMX (.xml)
-download_source_sdmx_title: Download source data as SDMX
+#download_source_sdmx: Download source SDMX (.xml)
+#download_source_sdmx_title: Download source data as SDMX
 download_chart: Download chart data (.csv)
 download_table: Download table data (.csv)
 download_csv: Download data (.csv)
 download_csv_title: Download data as CSV
 download_chart_image: Download chart image (.png)
 download_chart_image_title: Download chart image as PNG
-download_geojson: Download map data (.geojson)
-download_geojson_title: Download map data as GeoJSON
+#download_geojson: Download map data (.geojson)
+#download_geojson_title: Download map data as GeoJSON
 # A label describing information - where some data originally came from
 source: Source
 # A button that displays information about where some data originally came from
