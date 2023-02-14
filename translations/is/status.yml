@@ -4,4 +4,23 @@ reported_online: Birt
 statistics_in_progress: Í vinnslu
 exploring_data_sources: Verið að kanna gagnalindir
 not_applicable: Á ekki við
+no_data_available: Engin gögn tiltæk
+# Describing a section where the status is reported for each goal
 status_by_goal: Staða eftir markmiði
+status_by_field: Staða eftir %field
+disaggregation_status: Staða sundurliðunar
+disaggregation_status_overall: Heildarstaða sundurliðunar
+disaggregation_status_complete: Full sundurliðun
+disaggregation_status_inprogress: Einhver sundurliðun eða sundurliðun í vinnslu
+disaggregation_status_notstarted: Engin sundurliðun
+disaggregation_status_notapplicable: Á ekki við
+disaggregation_status_by_field: Sundurliðun eftir %field
+not_specified: Ekki skilgreint
+reported: Birt
+description: Staða birtingar gefur yfirlit yfir hversu marga mælikvarða um sjálfbæra þróun %country.name hefur birt.
+progress_status: Staða framgangs
+progress_not_available: Ekki tiltækt
+progress_challenges_remain: Eitthvað í land
+progress_approaching_target: Ísland vel staðsett
+progress_target_achieved: Markmiði náð
+progress_help: Hvernig erum við að standa okkur í sjálfbærri þróun?
